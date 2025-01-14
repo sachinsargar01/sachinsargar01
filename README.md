@@ -9,7 +9,7 @@ I’m currently an MCA (Master of Computer Applications) student passionate abou
 
 📚 **Currently Learning**:
 - Django framework
--Spring Boot
+- Spring Boot(java)
 
 🚀 **Projects**:
 - [PortFolio website(mini Project)]):
