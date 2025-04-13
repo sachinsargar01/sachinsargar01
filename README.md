@@ -8,8 +8,8 @@ I’m currently an MCA (Master of Computer Applications) student passionate abou
 - Version Control: Git, GitHub
 
 📚 **Currently Learning**:
-- Django framework
-- Spring Boot(java)
+-React 
+-Angular
 
 🚀 **Projects**:
 - [PortFolio website(mini Project)]):
