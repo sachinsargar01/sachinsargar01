@@ -20,6 +20,6 @@ I’m currently an MCA (Master of Computer Applications) student passionate abou
 
 🔗 **Connect with me**:
 - [LinkedIn](https://www.linkedin.com/in/sachin-sargar-509817290/)
-- [Personal Portfolio](https://sachinsargar100.netlify.app/)
+- [Personal Portfolio](https://sachinsargar.netlify.app/)
 
 Feel free to reach out if you have any questions or want to collaborate on exciting projects!
