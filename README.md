@@ -1,4 +1,3 @@
-![1](https://github.com/user-attachments/assets/35c7ef27-db96-4b4a-a5d9-5c02eeae2ce7)
 
 
 ## 🌐 Socials:
