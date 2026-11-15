@@ -127,15 +127,6 @@ Online grievance management system for students and administrators.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sachinsargar01&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsargar01&layout=compact&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 <p align="center">
   📫 Reach me at <a href="mailto:sachinsargar000@gmail.com">sachinsargar000@gmail.com</a> | <a href="https://linkedin.com/in/sachinsargar">LinkedIn</a>
 </p>
